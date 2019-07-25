@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "forwardUserbot", "forwardUserbot\forwardUserbot.pyproj", "{63408F87-5573-439A-9C02-2028E0F5D30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63408F87-5573-439A-9C02-2028E0F5D30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63408F87-5573-439A-9C02-2028E0F5D30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B9B49C0-26DB-4C65-91C5-2FECE4183DA7}
+	EndGlobalSection
+EndGlobal
